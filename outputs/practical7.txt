@@ -1,0 +1,120 @@
+PS D:\Source code\DSA> cd "d:\Source code\DSA\code\" ; if ($?) { g++ practical7.cpp -o practical7 } ; if ($?) { .\practical7 }
+Select the operation     
+1.Add flight path        
+2.bfs traversal 
+3.dfs traversal 
+4.displayAdjacencyMatrix 
+5.displayAdjacencyList   
+6.Exit program
+1
+Enter the source : 
+nashik
+Enter the destination : 
+mumbai
+Select the operation 
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+1
+Enter the source : 
+nashik
+Enter the destination : 
+kolkata
+Select the operation 
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+1
+Enter the source : 
+nahsik
+Enter the destination : 
+delhi
+Select the operation 
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+1
+Enter the source : 
+delhi
+Enter the destination : 
+kotkata
+Select the operation 
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+1
+Enter the source : 
+kolkata
+Enter the destination : 
+mumbai
+Select the operation 
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+2
+kolkata nashik mumbai 
+Select the operation
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+3
+kolkata nashik mumbai 
+Select the operation
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+4
+Adjacency Matrix:
+0 1 0 0 0 0
+1 0 0 1 0 0
+0 0 0 0 1 1
+0 1 0 0 0 0
+0 0 1 0 0 1
+0 0 1 0 1 0
+
+Select the operation
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+5
+Adjacency List:
+kotkata: delhi
+delhi: nahsik kotkata
+nashik: mumbai kolkata
+nahsik: delhi
+mumbai: nashik kolkata
+kolkata: nashik mumbai
+
+Select the operation
+1.Add flight path
+2.bfs traversal
+3.dfs traversal
+4.displayAdjacencyMatrix
+5.displayAdjacencyList
+6.Exit program
+6
+PS D:\Source code\DSA\code>

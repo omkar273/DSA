@@ -1,0 +1,22 @@
+PS D:\Source code\DSA> cd "d:\Source code\DSA\code\" ; if ($?) { g++ practical6.cpp -o practical6 } ; if ($?) { .\practical6 }
+Adjacency Matrix:
+0 1 0 1 0 0 0    
+1 0 0 0 0 0 0    
+0 0 0 0 1 1 0    
+1 0 0 0 0 0 0    
+0 0 1 0 0 1 1    
+0 0 1 0 1 0 0    
+0 0 0 0 1 0 0    
+
+Adjacency List:  
+olive: university sitrc
+university: olive
+siem: gate garlic
+sitrc: olive
+gate: siem strc garlic
+garlic: gate siem
+strc: gate
+
+DFS: gate siem garlic strc 
+BFS: gate siem strc garlic
+PS D:\Source code\DSA\code>

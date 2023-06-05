@@ -1,0 +1,65 @@
+PS D:\Source code\DSA> cd "d:\Source code\DSA\code\" ; if ($?) { g++ practical11.cpp -o practical11 } ; if ($?) { .\practical11 }
+Menu:
+1. Add Student     
+2. Delete Student  
+3. Display Student 
+4. Exit
+Enter your choice: 1
+Enter Roll Number: 1
+Enter Name: xyz
+Enter Division: a
+Enter Address: adddddd
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 1
+Enter Roll Number: 2
+Enter Name: jehkufs
+Enter Division: b
+Enter Address: khcsegvk
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 1
+Enter Roll Number: 3
+Enter Name: jegecsgyusr
+Enter Division: a
+Enter Address: eesgckgwrsv
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 3
+Enter Roll Number of student to display: 2
+Roll Number: 2
+Name: jehkufs
+Division: b
+Address: khcsegvk
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 2
+Enter Roll Number of student to delete: 2
+Student record deleted.
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 3
+Enter Roll Number of student to display: 2
+Student record not found.
+Menu:
+1. Add Student
+2. Delete Student
+3. Display Student
+4. Exit
+Enter your choice: 4
+PS D:\Source code\DSA\code> 

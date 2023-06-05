@@ -1,0 +1,63 @@
+PS D:\Source code\DSA> cd "d:\Source code\DSA\code\" ; if ($?) { g++ practical12.cpp -o practical12 } ; if ($?) { .\practical12 }
+Employee Management System
+1. Add Employee
+2. Delete Employee        
+3. Display Employee       
+4. Quit
+Enter your choice: 1      
+Enter employee ID: 1
+Enter employee name: jbajk
+Enter employee designation: jehakcd
+Enter employee salary: 200
+Employee added successfully.
+
+Employee Management System
+1. Add Employee
+2. Delete Employee
+3. Display Employee
+4. Quit
+Enter your choice: 1
+Enter employee ID: 2
+Enter employee name: dclshdvs
+Enter employee designation: ecjbkdsgc
+Enter employee salary: 500
+Employee added successfully.
+
+Employee Management System
+1. Add Employee
+2. Delete Employee
+3. Display Employee
+4. Quit
+Enter your choice: 3
+Enter the employee ID to display: 1
+Employee ID: 1
+Name: ☻╘
+Designation: ╠²H
+Salary: 200
+
+Employee Management System
+1. Add Employee
+2. Delete Employee
+3. Display Employee
+4. Quit
+Enter your choice: 2
+Enter the employee ID to delete: 1
+Employee deleted successfully.
+
+Employee Management System
+1. Add Employee
+2. Delete Employee
+3. Display Employee
+4. Quit
+Enter your choice: 3
+Enter the employee ID to display: 1
+Employee not found.
+
+Employee Management System
+1. Add Employee
+2. Delete Employee
+3. Display Employee
+4. Quit
+Enter your choice: 4
+Exiting program. Goodbye!
+PS D:\Source code\DSA\code>
