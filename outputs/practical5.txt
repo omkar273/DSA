@@ -1,5 +1,0 @@
-PS D:\Source code\DSA> cd "d:\Source code\DSA\code\" ; if ($?) { g++ practical5.cpp -o practical5 } ; if ($?) { .\practical5 }
-Enter the prefix expression
-+--a*bc/def
-Post-order traversal: f e d / c b * a - - + 
-PS D:\Source code\DSA\code> 

@@ -1,7 +1,0 @@
-PS C:users\sakshi\src> 
-PS D:source code\dsa practical\omkar\code>
-PS C:users\dinesh\downloads\dsa> 
-
-PS C:users\sakshi\src> python -u "C:users\sakshi\src\practical1.py"
-PS C:users\sakshi\src> python -u "C:users\sakshi\src\practical1.py"
-
