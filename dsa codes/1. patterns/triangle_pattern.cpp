@@ -90,8 +90,8 @@ void pattern5(int n) {
 
 /*
 function for printing a pattern like
-    --- 1
-    --1 2 1
+        1
+      1 2 1
     1 2 3 2 1
   1 2 3 4 3 2 1
 

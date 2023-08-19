@@ -82,8 +82,7 @@ void pattern5(int n) {
     }
 }
 
-
 int main() {
-    pattern5(6);
+    pattern5(7);
     return 0;
 }
