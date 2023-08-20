@@ -9,9 +9,7 @@ int binary_search(vector<int> arr, int key) {
 
     while (start <= end) {
         compare++;
-        cout << "finding between " << arr[start] << " and " << arr[end] << " with mid " << arr[mid] << endl;
         if (arr[mid] == key) {
-            cout << "found with " << compare << " comparisions" << endl;
             return key;
         } else if (key < arr[mid]) {
             end = mid - 1;
@@ -20,7 +18,6 @@ int binary_search(vector<int> arr, int key) {
         }
         mid = start + (end - start) / 2;
     }
-    cout << "not found with " << compare << " comparisions" << endl;
     return INTPTR_MIN;
 }
 

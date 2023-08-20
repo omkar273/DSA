@@ -6,7 +6,7 @@ function for printing a pattern like
 *
 ***
 ****
-******
+******  
 */
 void pattern1(int n) {
     for (size_t i = 1; i <= n; i++) {
